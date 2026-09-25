@@ -1,0 +1,6 @@
+{
+  "name": "StudyMind AI - AI Study Assistant",
+  "description": "Automated note summarizer, practice quiz generator, interactive flashcard engine, and AI study tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
